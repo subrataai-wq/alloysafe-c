@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Scratch & temporary files
+scratch/
+*.tmp
+*.log
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
